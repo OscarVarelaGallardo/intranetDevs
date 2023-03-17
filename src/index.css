@@ -1,0 +1,30 @@
+.formularioSupervisor{
+    margin-top: 12px;
+    background-color: #e9e4e48a;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 0.5%;
+    padding: 10%;
+}
+.formularioSupervisor h1{
+    text-align: center;
+    font-size: 2rem;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+.formularioSupervisor .contenedor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0 10%;
+}
+.img_escotel{
+    width: 10%;
+    height: 10%;
+    margin: 50px;
+    padding: 0;
+    
+}
+
